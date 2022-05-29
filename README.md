@@ -27,9 +27,9 @@ To write a python program to perform random classification.
 ## PROGRAM:
 ```python
 
-Program to implement random classification.
-Developed by: Praveen R K
-Register Number: 212220230037
+#Program to implement random classification.
+#Developed by: Praveen R K
+#Register Number: 212220230037
 
 
 import matplotlib.pyplot as plt
